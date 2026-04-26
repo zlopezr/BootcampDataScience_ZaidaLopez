@@ -5,7 +5,7 @@
 Este proyecto analiza datos históricos de partidos internacionales de fútbol utilizando Python y pandas.
 El objetivo es identificar patrones de rendimiento de equipos, torneos y jugadores a través de métricas clave.
 
----
+
 
 ##  Dataset
 
@@ -16,7 +16,7 @@ Se trabajó con múltiples fuentes de datos:
 * **shootouts.csv** → tandas de penales
 * **former_names.csv** → historial de nombres de equipos
 
----
+
 
 ##  Limpieza y preparación de datos
 
@@ -28,7 +28,7 @@ Se realizaron las siguientes etapas:
 * Estandarización de nombres de equipos
 * Creación de variables derivadas (goles totales, métricas de victoria, etc.)
 
----
+
 
 ## Preguntas de análisis
 
@@ -38,7 +38,7 @@ El análisis se enfocó en responder:
 2. ¿Qué **torneos han tenido más goles por partido** en los últimos 5 años?
 3. ¿Cuál es el **Top 20 de jugadores con mayor número de goles** en diferentes torneos durante los últimos 5 años?
 
----
+
 
 ## Tecnologías utilizadas
 
@@ -46,7 +46,7 @@ El análisis se enfocó en responder:
 * pandas
 * Jupyter Notebook
 
----
+
 
 ## Principales análisis realizados
 
@@ -68,7 +68,7 @@ El análisis se enfocó en responder:
 * Análisis por torneo
 * Ranking de máximos goleadores recientes
 
----
+
 
 ##  Cómo ejecutar el proyecto
 
@@ -86,7 +86,7 @@ pip install pandas
 
 3. Ejecutar los notebooks o scripts
 
----
+
 
 ##  Conclusiones
 
@@ -94,10 +94,9 @@ pip install pandas
 * Algunos torneos presentan mayor promedio de goles, lo que sugiere estilos de juego más ofensivos
 * Los rankings de goleadores recientes permiten identificar jugadores con alto impacto en diferentes competiciones
 
----
+
 
 ##  Autor
-Zaida Lopez Romero
 
 Zaida Lopez
 Proyecto realizado como parte de Bootcamp de Data Science
