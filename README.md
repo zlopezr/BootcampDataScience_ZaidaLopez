@@ -11,6 +11,8 @@ El objetivo es identificar patrones de rendimiento de equipos, torneos y jugador
 
 Se trabajó con múltiples fuentes de datos:
 
+https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data
+
 * **results.csv** → resultados de partidos
 * **goalscorers.csv** → detalle de goleadores
 * **shootouts.csv** → tandas de penales
