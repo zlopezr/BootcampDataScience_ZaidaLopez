@@ -1,104 +1,59 @@
-#  Football Data Analysis – Bootcamp Data Science
+SQL Practice – Sakila Database
 
-##  Descripción del proyecto
+Este repositorio contiene ejercicios prácticos de SQL utilizando la base de datos Sakila, enfocada en consultas de análisis, joins y manipulación de datos.
 
-Este proyecto analiza datos históricos de partidos internacionales de fútbol utilizando Python y pandas.
-El objetivo es identificar patrones de rendimiento de equipos, torneos y jugadores a través de métricas clave.
+Base de datos utilizada
+USE sakila;
 
+La base de datos Sakila es un esquema de ejemplo que simula un sistema de alquiler de películas, con tablas como:
 
+customer
+film
+payment
+rental
+inventory
+actor
+Contenido del ejercicio
 
-##  Dataset
+Parte 1 – SELECT y WHERE
+  1. Listar clientes
+  2. Películas con duración mayor a 120 minutos
 
-Se trabajó con múltiples fuentes de datos:
+Parte 2 – ORDER BY
+  3. Ordenar clientes por apellido (A-Z)
+  4. Top 5 películas más largas
 
-https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data
+Parte 3 – INNER JOIN
+  5. Pagos realizados por clientes
+  6. Información de películas alquiladas
 
-* **results.csv** → resultados de partidos
-* **goalscorers.csv** → detalle de goleadores
-* **shootouts.csv** → tandas de penales
-* **former_names.csv** → historial de nombres de equipos
+Parte 4 – LEFT JOIN
+  7. Clientes sin pagos
+  8. Películas sin actores
 
+Parte 5 – INSERT, UPDATE, DELETE
+  9. Insertar actor
+  10. Actualizar actor
 
-
-##  Limpieza y preparación de datos
-
-Se realizaron las siguientes etapas:
-
-* Eliminación de valores nulos en variables críticas
-* Conversión de fechas a formato datetime
-* Validación y eliminación de duplicados
-* Estandarización de nombres de equipos
-* Creación de variables derivadas (goles totales, métricas de victoria, etc.)
-
-
-
-## Preguntas de análisis
-
-El análisis se enfocó en responder:
-
-1. ¿Cuál es el **Top 15 de equipos en la historia con mejor win rate** (mínimo 20 partidos)?
-2. ¿Qué **torneos han tenido más goles por partido** en los últimos 5 años?
-3. ¿Cuál es el **Top 20 de jugadores con mayor número de goles** en diferentes torneos durante los últimos 5 años?
-
+Parte 6 – Consultas avanzadas
+  12. Top 5 clientes con mayor gasto
+  13. Top 5 películas más alquiladas
 
 
-## Tecnologías utilizadas
+Objetivo del proyecto
 
-* Python
-* pandas
-* Jupyter Notebook
+Practicar consultas SQL fundamentales:
+  
+  SELECT / WHERE
+  ORDER BY
+  INNER JOIN / LEFT JOIN
+  Agregaciones (SUM, COUNT)
+  GROUP BY
+  INSERT / UPDATE / DELETE
 
+Tecnologías
+  SQL
+  MySQL / Sakila Database
 
-
-## Principales análisis realizados
-
-### Rendimiento de equipos
-
-* Cálculo de win rate (% de victorias)
-* Filtro de equipos con al menos 20 partidos
-* Ranking de los equipos más consistentes históricamente
-
-### Análisis de torneos
-
-* Cálculo de goles totales y promedio por partido
-* Filtrado de los últimos 5 años
-* Identificación de torneos más ofensivos
-
-### Análisis de jugadores
-
-* Conteo de goles por jugador
-* Análisis por torneo
-* Ranking de máximos goleadores recientes
-
-
-
-##  Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-
-```
-git clone https://github.com/tu-usuario/BootcampDataScience_ZaidaLopez.git
-```
-
-2. Instalar dependencias:
-
-```
-pip install pandas
-```
-
-3. Ejecutar los notebooks o scripts
-
-
-
-##  Conclusiones
-
-* Se identificaron equipos con alta consistencia histórica en términos de victorias
-* Algunos torneos presentan mayor promedio de goles, lo que sugiere estilos de juego más ofensivos
-* Los rankings de goleadores recientes permiten identificar jugadores con alto impacto en diferentes competiciones
-
-
-
-##  Autor
-
-Zaida Lopez
-Proyecto realizado como parte de Bootcamp de Data Science
+Autor
+  Zaida Lopez
