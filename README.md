@@ -4,7 +4,7 @@ Este repositorio contiene los ejercicios, talleres y proyectos desarrollados dur
 
 El objetivo es consolidar conocimientos en análisis de datos, programación en Python, SQL y herramientas de visualización de datos.
 
----
+
 
 ## Contenido del repositorio
 
@@ -13,7 +13,7 @@ El objetivo es consolidar conocimientos en análisis de datos, programación en 
 - Análisis exploratorio (EDA)  
 - Resolución de problemas prácticos  
 
----
+
 
 ### SQL
 - Consultas básicas (SELECT, WHERE)  
@@ -23,14 +23,14 @@ El objetivo es consolidar conocimientos en análisis de datos, programación en 
 - Operaciones CRUD (INSERT, UPDATE, DELETE)  
 - Ejercicios con base de datos Sakila  
 
----
+
 
 ### Power BI / Visualización (si aplica)
 - Dashboards  
 - Reportes interactivos  
 - Análisis de KPIs  
 
----
+
 
 ## Estructura del repositorio
 
