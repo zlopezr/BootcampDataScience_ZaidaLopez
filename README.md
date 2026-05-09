@@ -22,6 +22,10 @@ Power BI / Visualización (si aplica)
   Reportes interactivos
   Análisis de KPIs
 Estructura del repositorio
+
+
+
+
 Entregables_Zaida_Lopez/
 │
 ├── python/
@@ -34,6 +38,10 @@ Entregables_Zaida_Lopez/
 │
 └── powerbi/
     └── dashboards/
+
+
+
+    
 Objetivo del proyecto
   Desarrollar habilidades en análisis de datos
   Aplicar Python para limpieza y manipulación de datos
