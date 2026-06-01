@@ -1,6 +1,22 @@
-# SportRetail LAM — API de Datos para Business Case
+﻿# SportRetail LAM — API de Datos para Business Case
 
-API REST mock con datos de wholesale sportswear para Latinoamérica.
+> Este README incluye información del API mock y también sirve como resumen de entrega para el taller.
+
+## 📌 Entrega principal
+- Notebook para entregar: `SportRetail_API_Analisis.ipynb`
+- Carpeta `output` con los archivos exportados:
+  - archivos `.csv`
+  - archivo Power BI: `SPORT_RETAIL_LAM.pbix`
+
+## 🚀 Objetivo del taller
+El objetivo de este taller es integrar la consulta de datos desde APIs usando Python con la construcción de reportes en Power BI.
+
+### Actividad realizada
+- Consulta a una API simulada desde Python.
+- Transformación y limpieza de datos.
+- Generación de dataset final listo para análisis.
+- Exportación de los datos a `.csv`.
+- Construcción de un reporte Power BI en `output/SPORT_RETAIL_LAM.pbix`.
 
 ---
 
