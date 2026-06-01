@@ -2,13 +2,18 @@
 
 > Este README incluye información del API mock y también sirve como resumen de entrega para el taller.
 
-## 📌 Entrega principal
+## Entrega principal
 - Notebook para entregar: `SportRetail_API_Analisis.ipynb`
 - Carpeta `output` con los archivos exportados:
   - archivos `.csv`
   - archivo Power BI: `SPORT_RETAIL_LAM.pbix`
 
-## 🚀 Objetivo del taller
+## Material adicional incluido
+- El documento de instalación de la API se encuentra en `DS_TechnicalAssessment_Candidate.docx`.
+- `sportretail_lam_api_f.zip` es la API original comprimida.
+- En la carpeta original `sportretail_lam_api_f` está el trabajo de extracción de la API, el notebook utilizado y los archivos de salida.
+
+##  Objetivo del taller
 El objetivo de este taller es integrar la consulta de datos desde APIs usando Python con la construcción de reportes en Power BI.
 
 ### Actividad realizada
@@ -20,7 +25,7 @@ El objetivo de este taller es integrar la consulta de datos desde APIs usando Py
 
 ---
 
-## ⚡ Setup rápido
+##  Setup rápido de API local
 
 ```bash
 # 1. Instalar dependencias
@@ -37,7 +42,7 @@ python api_server.py
 
 ---
 
-## 📡 Endpoints disponibles
+##  Endpoints disponibles
 
 ### Productos
 | Método | Endpoint | Parámetros opcionales |
@@ -66,7 +71,7 @@ python api_server.py
 
 ---
 
-## 📦 Estructura de respuestas
+##  Estructura de respuestas
 
 ### `/products`
 ```json
@@ -139,7 +144,7 @@ python api_server.py
 
 ---
 
-## 🧪 Ejemplos de llamadas
+##  Ejemplos de llamadas
 
 ```python
 import requests
