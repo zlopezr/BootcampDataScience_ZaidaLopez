@@ -14,6 +14,10 @@ El objetivo es consolidar conocimientos en análisis de datos, programación en 
 - Resolución de problemas prácticos  
 
 
+### Taller 03 — API (Entregable 3)
+- Consumo y procesamiento de datos desde APIs.
+- Carpeta: [Taller_03_API_data](Taller_03_API_data)
+
 
 ### SQL
 - Consultas básicas (SELECT, WHERE)  
@@ -44,6 +48,9 @@ Entregables_Zaida_Lopez/
 ├── sql/
 │   ├── sakila_queries.sql
 │   └── ejercicios_sql/
-│
-└── powerbi/
-    └── dashboards/
+ 
+ ├── apis/
+ │   └── Taller_03_API_data/
+ 
+ └── powerbi/
+     └── dashboards/
