@@ -1,0 +1,121 @@
+﻿id,title,category,brand,price,discountPercentage,stock,rating,reviews,sku
+1,PowerEdge Running Shoes v1,Footwear,PowerEdge,80.05,18.5,125.0,3.1,764,SR-FOO-0001
+2,UrbanSport Running Shoes v2,Footwear,UrbanSport,74.56,10.5,15.0,0.0,248,SR-FOO-0002
+3,AthletX Running Shoes v3,Footwear,AthletX,216.1,17.5,214.0,3.1,613,SR-FOO-0003
+4,AthletX Running Shoes v4,Footwear,AthletX,212.08,8.5,79.0,3.0,791,SR-FOO-0004
+5,SportRetail Pro Running Shoes v5,Footwear,SportRetail Pro,135.77,8.6,135.0,4.5,757,SR-FOO-0005
+6,SpeedMax Basketball Shoes v1,Footwear,SpeedMax,72.73,7.3,321.0,4.0,380,SR-FOO-0006
+7,SportRetail Pro Basketball Shoes v2,Footwear,SportRetail Pro,203.78,19.3,40.0,4.6,113,SR-FOO-0007
+8,CoreFit Basketball Shoes v3,Footwear,CoreFit,91.6,8.9,343.0,3.2,709,SR-FOO-0008
+9,AthletX Basketball Shoes v4,Footwear,AthletX,175.18,6.1,236.0,3.4,665,SR-FOO-0009
+10,CoreFit Basketball Shoes v5,Footwear,CoreFit,244.64,19.4,117.0,4.6,333,SR-FOO-0010
+11,UrbanSport Training Shoes v1,Footwear,UrbanSport,252.18,7.9,335.0,3.7,668,SR-FOO-0011
+12,AthletX Training Shoes v2,Footwear,AthletX,222.62,13.5,382.0,4.0,607,SR-FOO-0012
+13,AthletX Training Shoes v3,Footwear,AthletX,169.64,2.3,24.0,4.7,166,SR-FOO-0013
+14,SpeedMax Training Shoes v4,Footwear,SpeedMax,189.19,9.6,305.0,5.0,551,SR-FOO-0014
+15,SportRetail Pro Training Shoes v5,Footwear,SportRetail Pro,208.06,2.9,453.0,3.8,283,SR-FOO-0015
+16,CoreFit Slides v1,Footwear,CoreFit,152.82,11.3,488.0,4.3,746,SR-FOO-0016
+17,AthletX Slides v2,Footwear,AthletX,169.23,2.7,320.0,3.2,664,SR-FOO-0017
+18,CoreFit Slides v3,Footwear,CoreFit,226.56,13.5,398.0,4.8,10,SR-FOO-0018
+19,SportRetail Pro Slides v4,Footwear,SportRetail Pro,264.05,22.0,425.0,4.5,255,SR-FOO-0019
+20,SportRetail Pro Slides v5,Footwear,SportRetail Pro,74.27,12.1,35.0,4.9,555,SR-FOO-0020
+21,SpeedMax Football Boots v1,Footwear,SpeedMax,268.04,4.1,270.0,4.7,443,SR-FOO-0021
+22,PowerEdge Football Boots v2,Footwear,PowerEdge,210.22,17.8,204.0,5.0,675,SR-FOO-0022
+23,SpeedMax Football Boots v3,Footwear,SpeedMax,82.23,5.6,173.0,2.6,577,SR-FOO-0023
+24,SportRetail Pro Football Boots v4,Footwear,SportRetail Pro,214.26,1.5,34.0,4.8,348,SR-FOO-0024
+25,PowerEdge Football Boots v5,Footwear,PowerEdge,164.22,13.5,370.0,4.8,594,SR-FOO-0025
+26,SpeedMax Tennis Shoes v1,Footwear,SpeedMax,236.69,4.8,49.0,4.1,372,SR-FOO-0026
+27,PowerEdge Tennis Shoes v2,Footwear,PowerEdge,67.19,16.3,330.0,2.7,422,SR-FOO-0027
+28,SportRetail Pro Tennis Shoes v3,Footwear,SportRetail Pro,110.95,4.8,229.0,2.9,197,SR-FOO-0028
+29,SportRetail Pro Tennis Shoes v4,Footwear,SportRetail Pro,154.7,21.5,281.0,2.7,677,SR-FOO-0029
+30,SportRetail Pro Tennis Shoes v5,Footwear,SportRetail Pro,263.43,21.2,85.0,3.5,502,SR-FOO-0030
+31,SportRetail Pro Performance T-Shirt v1,Apparel,SportRetail Pro,38.11,0.1,199.0,3.2,475,SR-APP-0031
+32,PowerEdge Performance T-Shirt v2,Apparel,PowerEdge,129.5,13.9,367.0,3.7,204,SR-APP-0032
+33,UrbanSport Performance T-Shirt v3,Apparel,UrbanSport,100.93,1.5,160.0,2.6,608,SR-APP-0033
+34,UrbanSport Performance T-Shirt v4,Apparel,UrbanSport,37.32,24.0,41.0,4.6,80,SR-APP-0034
+35,AthletX Performance T-Shirt v5,Apparel,AthletX,64.42,23.5,0.0,3.1,618,SR-APP-0035
+36,PowerEdge Training Shorts v1,Apparel,PowerEdge,84.2,13.1,478.0,3.2,695,SR-APP-0036
+37,SpeedMax Training Shorts v2,Apparel,SpeedMax,34.4,16.1,234.0,0.0,779,SR-APP-0037
+38,UrbanSport Training Shorts v3,Apparel,UrbanSport,129.83,24.9,37.0,3.8,528,SR-APP-0038
+39,SportRetail Pro Training Shorts v4,Apparel,SportRetail Pro,116.72,9.2,80.0,3.6,566,SR-APP-0039
+40,PowerEdge Training Shorts v5,Apparel,PowerEdge,78.18,16.7,283.0,3.2,689,SR-APP-0040
+41,CoreFit Track Jacket v1,Apparel,CoreFit,32.7,2.7,283.0,2.9,298,SR-APP-0041
+42,AthletX Track Jacket v2,Apparel,AthletX,95.62,21.3,258.0,3.7,62,SR-APP-0042
+43,CoreFit Track Jacket v3,Apparel,CoreFit,24.85,8.3,66.0,4.1,278,SR-APP-0043
+44,PowerEdge Track Jacket v4,Apparel,PowerEdge,67.05,0.2,38.0,4.9,717,SR-APP-0044
+45,CoreFit Track Jacket v5,Apparel,CoreFit,84.08,3.7,65.0,2.6,383,SR-APP-0045
+46,SportRetail Pro Compression Tights v1,Apparel,SportRetail Pro,118.88,5.3,127.0,4.2,372,SR-APP-0046
+47,SpeedMax Compression Tights v2,Apparel,SpeedMax,127.12,18.7,473.0,4.8,176,SR-APP-0047
+48,SpeedMax Compression Tights v3,Apparel,SpeedMax,22.73,18.4,170.0,4.5,431,SR-APP-0048
+49,AthletX Compression Tights v4,Apparel,AthletX,49.35,19.7,55.0,3.5,49,SR-APP-0049
+50,SpeedMax Compression Tights v5,Apparel,SpeedMax,58.46,20.5,446.0,3.1,34,SR-APP-0050
+51,CoreFit Football Jersey v1,Apparel,CoreFit,115.08,24.2,142.0,3.4,531,SR-APP-0051
+52,UrbanSport Football Jersey v2,Apparel,UrbanSport,56.43,0.7,449.0,4.9,192,SR-APP-0052
+53,SportRetail Pro Football Jersey v3,Apparel,SportRetail Pro,31.92,10.9,373.0,4.5,456,SR-APP-0053
+54,SpeedMax Football Jersey v4,Apparel,SpeedMax,118.95,4.8,22.0,4.3,11,SR-APP-0054
+55,PowerEdge Football Jersey v5,Apparel,PowerEdge,99.14,18.5,343.0,3.0,451,SR-APP-0055
+56,CoreFit Sports Bra v1,Apparel,CoreFit,88.55,16.6,63.0,4.3,317,SR-APP-0056
+57,CoreFit Sports Bra v2,Apparel,CoreFit,64.26,7.4,65.0,3.0,690,SR-APP-0057
+58,AthletX Sports Bra v3,Apparel,AthletX,87.71,7.5,280.0,4.6,321,SR-APP-0058
+59,UrbanSport Sports Bra v4,Apparel,UrbanSport,86.73,8.1,226.0,3.6,228,SR-APP-0059
+60,PowerEdge Sports Bra v5,Apparel,PowerEdge,38.67,2.1,263.0,4.2,644,SR-APP-0060
+61,AthletX Sport Backpack v1,Accessories,AthletX,63.82,5.6,101.0,2.9,57,SR-ACC-0061
+62,SportRetail Pro Sport Backpack v2,Accessories,SportRetail Pro,46.43,22.2,294.0,3.0,723,SR-ACC-0062
+63,AthletX Sport Backpack v3,Accessories,AthletX,62.48,0.1,384.0,4.7,119,SR-ACC-0063
+64,PowerEdge Sport Backpack v4,Accessories,PowerEdge,51.44,1.3,127.0,4.8,134,SR-ACC-0064
+65,PowerEdge Sport Backpack v5,Accessories,PowerEdge,52.49,14.0,162.0,4.9,463,SR-ACC-0065
+66,UrbanSport Water Bottle v1,Accessories,UrbanSport,44.14,22.7,228.0,4.7,771,SR-ACC-0066
+67,AthletX Water Bottle v2,Accessories,AthletX,77.19,6.9,398.0,3.8,651,SR-ACC-0067
+68,PowerEdge Water Bottle v3,Accessories,PowerEdge,32.86,6.8,163.0,4.7,92,SR-ACC-0068
+69,PowerEdge Water Bottle v4,Accessories,PowerEdge,22.22,5.3,212.0,3.5,565,SR-ACC-0069
+70,SpeedMax Water Bottle v5,Accessories,SpeedMax,41.16,19.2,484.0,4.2,793,SR-ACC-0070
+71,CoreFit Cap v1,Accessories,CoreFit,33.89,9.7,456.0,4.9,439,SR-ACC-0071
+72,UrbanSport Cap v2,Accessories,UrbanSport,81.82,12.2,139.0,3.6,39,SR-ACC-0072
+73,SpeedMax Cap v3,Accessories,SpeedMax,67.93,21.0,470.0,2.8,647,SR-ACC-0073
+74,UrbanSport Cap v4,Accessories,UrbanSport,55.15,0.7,329.0,3.6,482,SR-ACC-0074
+75,CoreFit Cap v5,Accessories,CoreFit,26.93,8.2,389.0,4.7,294,SR-ACC-0075
+76,CoreFit Headband v1,Accessories,CoreFit,76.79,11.8,383.0,3.8,368,SR-ACC-0076
+77,PowerEdge Headband v2,Accessories,PowerEdge,13.22,0.8,126.0,3.0,30,SR-ACC-0077
+78,SpeedMax Headband v3,Accessories,SpeedMax,63.56,14.1,111.0,3.7,272,SR-ACC-0078
+79,UrbanSport Headband v4,Accessories,UrbanSport,87.1,18.0,398.0,0.0,328,SR-ACC-0079
+80,CoreFit Headband v5,Accessories,CoreFit,56.06,22.7,192.0,3.5,742,SR-ACC-0080
+81,PowerEdge Gym Bag v1,Accessories,PowerEdge,29.43,17.4,154.0,4.6,624,SR-ACC-0081
+82,UrbanSport Gym Bag v2,Accessories,UrbanSport,72.61,8.7,219.0,4.2,80,SR-ACC-0082
+83,SpeedMax Gym Bag v3,Accessories,SpeedMax,75.79,2.6,491.0,3.4,480,SR-ACC-0083
+84,PowerEdge Gym Bag v4,Accessories,PowerEdge,51.74,16.3,315.0,4.5,561,SR-ACC-0084
+85,PowerEdge Gym Bag v5,Accessories,PowerEdge,57.4,8.1,125.0,4.6,98,SR-ACC-0085
+86,SpeedMax Sport Socks v1,Accessories,SpeedMax,55.59,16.7,172.0,2.6,342,SR-ACC-0086
+87,CoreFit Sport Socks v2,Accessories,CoreFit,37.23,22.0,0.0,4.7,579,SR-ACC-0087
+88,SportRetail Pro Sport Socks v3,Accessories,SportRetail Pro,29.31,10.2,284.0,4.4,717,SR-ACC-0088
+89,SpeedMax Sport Socks v4,Accessories,SpeedMax,73.43,2.3,113.0,3.5,259,SR-ACC-0089
+90,SpeedMax Sport Socks v5,Accessories,SpeedMax,54.28,8.6,381.0,3.9,370,SR-ACC-0090
+91,CoreFit Resistance Bands v1,Equipment,CoreFit,36.9,18.0,161.0,2.8,558,SR-EQU-0091
+92,AthletX Resistance Bands v2,Equipment,AthletX,35.56,12.1,370.0,4.0,788,SR-EQU-0092
+93,SportRetail Pro Resistance Bands v3,Equipment,SportRetail Pro,94.1,7.4,184.0,2.9,24,SR-EQU-0093
+94,SportRetail Pro Resistance Bands v4,Equipment,SportRetail Pro,107.56,13.8,357.0,4.9,663,SR-EQU-0094
+95,SportRetail Pro Resistance Bands v5,Equipment,SportRetail Pro,69.54,11.7,225.0,3.4,62,SR-EQU-0095
+96,SportRetail Pro Jump Rope v1,Equipment,SportRetail Pro,93.1,10.0,37.0,3.9,712,SR-EQU-0096
+97,UrbanSport Jump Rope v2,Equipment,UrbanSport,105.17,2.1,127.0,2.8,792,SR-EQU-0097
+98,UrbanSport Jump Rope v3,Equipment,UrbanSport,36.44,13.1,230.0,4.8,314,SR-EQU-0098
+99,CoreFit Jump Rope v4,Equipment,CoreFit,69.02,1.5,491.0,4.4,791,SR-EQU-0099
+100,PowerEdge Jump Rope v5,Equipment,PowerEdge,22.71,6.0,282.0,2.7,12,SR-EQU-0100
+101,SpeedMax Yoga Mat v1,Equipment,SpeedMax,42.67,5.8,361.0,3.2,474,SR-EQU-0101
+102,CoreFit Yoga Mat v2,Equipment,CoreFit,89.84,15.6,338.0,4.5,212,SR-EQU-0102
+103,PowerEdge Yoga Mat v3,Equipment,PowerEdge,29.15,6.6,72.0,2.7,179,SR-EQU-0103
+104,UrbanSport Yoga Mat v4,Equipment,UrbanSport,102.51,11.0,239.0,4.2,726,SR-EQU-0104
+105,UrbanSport Yoga Mat v5,Equipment,UrbanSport,61.91,2.0,20.0,4.7,762,SR-EQU-0105
+106,SportRetail Pro Foam Roller v1,Equipment,SportRetail Pro,36.75,16.9,440.0,3.9,31,SR-EQU-0106
+107,CoreFit Foam Roller v2,Equipment,CoreFit,69.74,19.1,89.0,3.7,677,SR-EQU-0107
+108,UrbanSport Foam Roller v3,Equipment,UrbanSport,56.41,20.4,496.0,2.7,366,SR-EQU-0108
+109,SportRetail Pro Foam Roller v4,Equipment,SportRetail Pro,96.48,8.2,355.0,3.7,688,SR-EQU-0109
+110,UrbanSport Foam Roller v5,Equipment,UrbanSport,18.49,2.2,129.0,3.3,423,SR-EQU-0110
+111,SportRetail Pro Training Gloves v1,Equipment,SportRetail Pro,77.48,13.6,211.0,2.6,540,SR-EQU-0111
+112,PowerEdge Training Gloves v2,Equipment,PowerEdge,56.99,1.3,136.0,3.9,304,SR-EQU-0112
+113,SportRetail Pro Training Gloves v3,Equipment,SportRetail Pro,17.74,15.8,409.0,0.0,172,SR-EQU-0113
+114,SpeedMax Training Gloves v4,Equipment,SpeedMax,23.85,24.8,467.0,2.8,130,SR-EQU-0114
+115,PowerEdge Training Gloves v5,Equipment,PowerEdge,42.73,17.6,212.0,4.6,493,SR-EQU-0115
+116,SpeedMax Agility Ladder v1,Equipment,SpeedMax,33.11,15.0,382.0,4.7,81,SR-EQU-0116
+117,SpeedMax Agility Ladder v2,Equipment,SpeedMax,47.29,19.7,136.0,4.6,299,SR-EQU-0117
+118,UrbanSport Agility Ladder v3,Equipment,UrbanSport,109.9,12.2,76.0,3.6,505,SR-EQU-0118
+119,UrbanSport Agility Ladder v4,Equipment,UrbanSport,50.83,23.3,445.0,3.0,724,SR-EQU-0119
+120,SpeedMax Agility Ladder v5,Equipment,SpeedMax,19.15,18.6,361.0,4.8,400,SR-EQU-0120

@@ -1,0 +1,101 @@
+﻿id,firstName,lastName,email,age,country,city,phone,address,retailerType
+1,Valentino,Gomez,gonzalezvictoria@example.org,44,Argentina,Tucumán,+54 15 2496 0013,Calle Corrientes N° 784,Sports Chain
+2,Rafael,Pérez,zfernandez@example.org,38,Colombia,Cartagena,573254235116,Diagonal 5ª # 8X-9,Sports Chain
+3,Ángel,Osses,sperez@example.net,24,Chile,Santiago,+56 9 5210 3413,Calle Las Malvas 455 Of. 341,Online Retailer
+4,Luciano,Diaz,malenaperez@example.net,45,Argentina,Buenos Aires,+54 9 3203 0564,Boulevard 6 N° 87,Department Store
+5,Oswaldo,Valentín,qcollazo@example.org,42,México,Monterrey,(496)965-3287x1012,Retorno Sur Olmos 978 Interior 480,Sports Chain
+6,Roxana,Jara,zapatagabriela@example.com,30,Chile,Valparaíso,+56 58 232 7048,Av. Los Girasoles 325,Independent
+7,Erasmo,Mondaca,arriagadagabriel@example.org,54,Chile,Temuco,+56 45 280 3911,Luciano Silva 582,Sports Chain
+8,Luciano,Vera,isoto@example.net,52,Argentina,Rosario,+54 9 3457 8713,Calle 9 N° 41,Independent
+9,Anderson,Estrada,toroluz@example.org,29,Colombia,Cali,(+57)6038834738,Carrera 46 # 7-6 Sur,Department Store
+10,Javier,Castrillón,ucorrea@example.org,36,Colombia,Medellín,604 906 51 33,Carrera 147 # 8-91,Online Retailer
+11,Flavio,Ramos,alcoleaciro@example.org,45,Perú,Piura,+34978 73 60 26,Callejón de Ángeles Sanz 96,Online Retailer
+12,Eder,Murillo,ssanchez@example.org,38,Colombia,Bogotá,018000500978,Av. calle 9ª # 9-2,Online Retailer
+13,Lola,Acuña,lunaamparo@example.org,38,Argentina,Rosario,+54 15 2999 0916,Avenida San Juan N° 537,Independent
+14,Maximiano,Belmonte,hildamarin@example.com,36,Perú,Lima,+34707 991 183,Acceso Socorro Bayona 55 Apt. 78 ,Superstore
+15,María Luisa,Luna,perla80@example.net,42,México,Tijuana,(124)118-2449x35348,"Andador Colima 640 Edif. 052 , Depto. 427",Sports Chain
+16,Jonatan,Gajardo,htoro@example.org,51,Chile,Santiago,+56 2 3780 5982,Calle Los Alerces 60,Independent
+17,Cristian,Otero,isabeliborra@example.net,29,Perú,Cusco,+34 946 92 32 26,Alameda Micaela Requena 34,Department Store
+18,Delfina,Maldonado,alvarezmartina@example.com,53,Argentina,Rosario,+54 9 3754 3303,Camino Río Gallegos N° 798,Sports Chain
+19,Custodia,Lara,amaro14@example.org,30,Perú,Piura,+34800 196 556,Camino de Goyo Iñiguez 7,Independent
+20,Yeni,Estrada,solismarcela@example.net,48,México,Tijuana,615.951.4846,Circunvalación Sur Espinosa 629 Interior 946,Sports Chain
+21,Eloisa,Venegas,maestassalvador@example.org,28,México,Puebla,577.738.7214x8951,Cerrada Hidalgo 003 791,Superstore
+22,Julio,Olivo,opedroza@example.net,39,México,Puebla,632.016.3287x083,"Calle Norte Tamez 957 Edif. 986 , Depto. 872",Independent
+23,Giuliana,Garcia,wacosta@example.org,50,Argentina,Córdoba,+54 9 3534 7143,Camino Mar del Plata N° 47,Sports Chain
+24,Héctor,Cáceres,osvaldodiaz@example.com,28,Chile,Concepción,+56 2 2736 6909,Psje. Manuel Rodríguez 968 Of. 4377,Independent
+25,Agostina,Ruiz,vgonzalez@example.net,44,Argentina,Tucumán,+54 15 2172 9806,Av. 8 N° 57,Independent
+26,Felipe,Ampuero,victor55@example.com,29,Chile,Valparaíso,+56 51 361 7080,Avda. Ramón Picarte 43,Online Retailer
+27,Enrique,Ospina,trujillodaniela@example.com,35,Colombia,Bogotá,(+57)3074529912,Av. carrera 119 # 5-7 Sur,Superstore
+28,Olga,Benavides,anabarrios@example.net,25,Colombia,Bogotá,573191905865,Cr. 1ª # 2P-7 Sur,Sports Chain
+29,Maria Paz,Martin,bvega@example.org,35,Argentina,Córdoba,+54 9 3598 7769,Avenida San Miguel de Tucumán N° 84,Superstore
+30,Sandra,Medina,qdonoso@example.com,35,Chile,Valparaíso,+56 42 257 3545,José Páez 4678 Of. 877,Sports Chain
+31,Jesusa,Hervia,mariscalismael@example.com,31,Perú,Trujillo,+34 902957885,Acceso de Julia Santiago 54 Apt. 13 ,Superstore
+32,Fernanda,Ramos,paola82@example.org,39,Colombia,Bogotá,(+57) 329 413 43 52,Cr. 52 # 1-9 Sur,Sports Chain
+33,Alberto,Vela,sessasalas@example.org,38,México,Guadalajara,(777)520-4711,Avenida Sur Coronado 941 318,Department Store
+34,Delia,Zelaya,,30,México,Ciudad de México,938.677.4964x9909,Viaducto Eslovenia 123 Interior 281,Sports Chain
+35,Mateo,Ramirez,,42,Argentina,Tucumán,+54 9 3240 3447,Boulevard Santa Fe N° 732,Independent
+36,Patricia,Pérez,jorgegamboa@example.org,30,Colombia,Bogotá,573199471746,Av. carrera 9ª # 27-1 Sur,Superstore
+37,Luisina,Miranda,juan-martin01@example.org,26,Argentina,Buenos Aires,+54 15 2849 0278,Calle Mitre N° 287,Independent
+38,Fernando,Cruz,cynthia55@example.net,28,México,Tijuana,1-674-680-7154,Diagonal Serrano 876 038,Sports Chain
+39,Lucas,Jaramillo,rocio77@example.org,24,México,Tijuana,(247)710-9324x8086,Boulevard Mozambique 274 846,Superstore
+40,Luis,Flórez,ppuentes@example.com,51,Colombia,Cali,+57 322 146 58 40,Cl. 89 # 8O-68 Sur,Department Store
+41,José,Haro,usarabia@example.org,52,Perú,Lima,+34 942 36 05 76,Cuesta Angelino Cases 295 Piso 1 ,Online Retailer
+42,Sebastián,Cortes,ualcantara@example.org,53,Perú,Lima,+34821745961,Alameda de Eugenia Torrents 209 Apt. 43 ,Online Retailer
+43,Arturo,Rodríguez,alarconjuan@example.net,27,Chile,Santiago,+56 2 3640 0504,Caupolicán 392 Dpto. 4319,Sports Chain
+44,Pedro,Aguirre,franciscahernandez@example.com,30,México,Ciudad de México,1-482-175-9464x743,"Boulevard Sur Olivárez 594 Edif. 406 , Depto. 409",Superstore
+45,Maura,Grau,valdespepita@example.com,42,Perú,Piura,+34 926 339 421,Pasaje de Anastasio Patiño 51,Superstore
+46,Eligio,Paz,mariana62@example.org,40,Perú,Piura,+34986 842 474,Pasaje Carlos Chico 96 Piso 1 ,Superstore
+47,Elvia,Sandoval,irodriguez@example.org,28,Colombia,Barranquilla,+57 309 651 37 09,Avenida Pijiño del Carmen # 81H-5 Este,Department Store
+48,Anselmo,Mayo,icarnero@example.org,35,Perú,Piura,+34 980 113 826,Paseo de Simón Cortes 81 Puerta 6 ,Sports Chain
+49,Victor,Guzman,anacleto53@example.com,43,Perú,Cusco,+34927 15 85 06,Via Regina Sanz 4 Puerta 9 ,Online Retailer
+50,Gilberto,Vallejo,arteagaalta-gracia@example.org,28,México,Puebla,1-183-933-5290,Calle Reino Unido de Gran Bretaña e Irlanda del Norte 210 Interior 205,Independent
+51,Luz,Villamizar,juanrodriguez@example.com,45,Colombia,Cali,(+57) 321 177 58 91,Cl. 190 # 88-14,Online Retailer
+52,Cándido,Trujillo,bquerol@example.net,27,Perú,Lima,+34971115921,Camino de Carlota Morcillo 99,Department Store
+53,Conrado,Carbó,wilfredo89@example.com,28,Perú,Cusco,+34875673657,Via de Matías Roldán 64 Apt. 71 ,Independent
+54,Evelio,Nieves,brionesesteban@example.com,25,México,Guadalajara,809-885-1656,Retorno Oaxaca 198 Interior 327,Superstore
+55,Ramona,Pedrero,rebecacampoy@example.com,43,Perú,Piura,+34828 493 689,Plaza de Geraldo Llano 65,Online Retailer
+56,Úrsula,Pacheco,duranhugo@example.net,49,México,Monterrey,02018366752,Continuación Colima 229 014,Department Store
+57,Esparta,Pedroza,fpineda@example.net,41,México,Monterrey,381-561-4978,"Cerrada Ortega 003 Edif. 432 , Depto. 445",Superstore
+58,Carmen,Lozano,rodriguezmauricio@example.org,35,Colombia,Cartagena,308 851 60 60,Calle 159 # 76-5,Online Retailer
+59,Francisco,Beltrán,urodriguez@example.org,28,Colombia,Medellín,57 311 613 69 68,Dg. 6ª # 2-92 Este,Superstore
+60,Lautaro,Campos,pereyrasantiago@example.com,29,Argentina,Rosario,+54 15 2331 2432,Diagonal Saavedra N° 8767,Superstore
+61,Agustín,Arias,felipe17@example.com,49,Argentina,Córdoba,+54 15 2158 1477,Diag. 2 N° 917,Superstore
+62,Fidel,Peña,ypinto@example.net,23,Chile,Temuco,+56 9 5859 7820,Los Copihues 8203,Independent
+63,Guadalupe,Avila,npereyra@example.org,33,Argentina,Buenos Aires,+54 9 3665 9051,Diagonal 5 N° 369,Independent
+64,Catalina,Dominguez,,44,Argentina,Rosario,+54 9 3946 2914,Diagonal Rosario N° 92,Sports Chain
+65,Josefina,Duarte,bgimenez@example.com,47,Argentina,Tucumán,+54 9 3573 3221,Calle Malvinas Argentinas N° 186,Department Store
+66,Jerónimo,Durán,normaocampo@example.org,55,México,Ciudad de México,1-927-065-3794x73834,"Corredor Tailandia 774 Edif. 688 , Depto. 623",Online Retailer
+67,Omar,Cortés,omarmartinez@example.com,43,Colombia,Barranquilla,608 981 41 24,Carrera 83 # 1A-76 Este,Independent
+68,María,Letelier,javiera15@example.org,27,Chile,Concepción,+56 800 322 047,Las Hortensias 4104 Dpto. 2489,Sports Chain
+69,Paz,Navarro,luis36@example.net,25,Chile,Valparaíso,+56 2 2479 8089,Calle Las Hortensias 396,Independent
+70,Lorena,Tovar,soriaarcelia@example.org,49,México,Puebla,880-670-6540x5153,Calle Baja California Sur 852 Interior 772,Online Retailer
+71,Sergio,Ferrer,cristianreyna@example.org,39,México,Puebla,+30(5)4868740345,Circuito Chihuahua 667 Interior 652,Superstore
+72,Thiago Benjamin,Rodriguez,xledesma@example.net,44,Argentina,Buenos Aires,+54 9 3616 9284,Avenida 5 N° 739,Independent
+73,Tiziana,Sosa,csosa@example.net,53,Argentina,Tucumán,+54 9 3340 1658,Calle Mitre N° 173,Independent
+74,Jenny,Ospina,morenojorge@example.com,36,Colombia,Bogotá,(+57) 603 975 57 19,Cl. 44 # 92A-77 Este,Superstore
+75,Estefanía,Gallegos,iglesiasramiro@example.net,22,México,Ciudad de México,473.121.7271x5518,Callejón Guerrero 831 Interior 323,Sports Chain
+76,Constanza,Peinado,xamo@example.net,38,Perú,Arequipa,+34975829114,Pasadizo de Segismundo Recio 612 Puerta 1 ,Department Store
+77,Ana María,Cazares,rrobledo@example.net,53,México,Ciudad de México,(922)680-1824x2253,Avenida Morelos 842 498,Sports Chain
+78,Lucía,Navarro,sierraclaudia@example.net,46,Colombia,Medellín,(+57)3190010943,Carrera 97U Sur # 8-44 Este,Sports Chain
+79,María,Guzmán,egomez@example.net,44,Chile,Temuco,+56 61 363 5925,Camilo Henríquez 415 Piso 81,Department Store
+80,Johan,Olivares,rosarojas@example.com,23,Chile,Antofagasta,+56 2 3959 5327,Los Robles 916 Piso 3,Department Store
+81,Edelmira,Sosa,atilio04@example.com,49,Perú,Trujillo,+34887801624,Acceso de Artemio Pérez 9 Apt. 58 ,Online Retailer
+82,María Cristina,Losa,candelario68@example.com,29,Perú,Trujillo,+34 832165585,Pasadizo Samu Vall 1,Independent
+83,Maximo,Fernandez,fernandezignacio@example.com,51,Argentina,Córdoba,+54 15 2559 5269,Av. Salta N° 598,Independent
+84,Juan,Bautista,ariasjavier@example.com,49,Colombia,Bogotá,6018974993,Cr. 79 # 4-1 Este,Sports Chain
+85,Lucía,Barrios,ramirezedna@example.com,47,Colombia,Barranquilla,3289702838,Cr. 78 # 8-92 Sur,Online Retailer
+86,Camila,Valenzuela,alberto49@example.com,43,Chile,Concepción,+56 9 6834 4375,Ramiro Vilches 7198 Piso 5,Sports Chain
+87,Karina,Ibarra,maria15@example.com,54,Chile,Santiago,+56 2 3238 4842,Calle Hortensia Araya 8165,Superstore
+88,Jacobo,Palomo,chapaabraham@example.net,34,México,Tijuana,773-454-0193x80262,Peatonal Sur Longoria 049 915,Independent
+89,Tomas Benjamin,Fernandez,facundo88@example.com,31,Argentina,Rosario,+54 9 3543 1527,Calle La Pampa N° 3973,Sports Chain
+90,Enrique,Díaz,fmolina@example.com,34,Colombia,Cali,+57 604 875 30 46,Tr. 5J Sur # 23-80 Sur,Sports Chain
+91,María Luisa,Mercader,santiagovalverde@example.net,33,Perú,Lima,+34 834 593 327,Acceso de Severo Sotelo 233,Online Retailer
+92,Wilmer,González,xcontreras@example.org,50,Colombia,Barranquilla,01 8008 398 225,Avenida carrera 27 # 29-97 Sur,Superstore
+93,Antonella,Bustamante,aguilerateresa@example.com,42,Chile,Temuco,+56 800 206 403,Juan Mackenna 801,Independent
+94,María José,Cerdá,madridsebastian@example.org,50,Perú,Arequipa,+34948567661,Via de Gaspar Pozo 123,Online Retailer
+95,Andrés,Palma,fonsecamauricio@example.net,39,Chile,Concepción,+56 2 3237 5243,Ramón Carnicer 1119,Independent
+96,Sofía,Muñoz,tarriagada@example.org,26,Chile,Temuco,+56 45 358 3028,Elizabeth Arriagada 553,Online Retailer
+97,Karen,Martínez,israelguzman@example.com,25,Colombia,Bogotá,573068705685,Carrera 162J # 47-53 Este,Independent
+98,Chita,Rey,noeliasierra@example.org,27,Perú,Lima,+34 948 882 634,Avenida de Ágata Sandoval 91,Superstore
+99,Ignacia,Ariza,aurelioledesma@example.com,51,Perú,Cusco,+34 821 39 83 73,Plaza de Héctor Falcón 8 Apt. 93 ,Department Store
+100,Armando,Molina,jrozas@example.com,34,Chile,Antofagasta,+56 9 7244 5877,Los Alerces 460 Of. 5205,Online Retailer
